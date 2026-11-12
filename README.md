@@ -20,4 +20,9 @@ if acesso_indevido:
 
 Fonte: [Código Penal, arts. 23, 25 e 154-A](https://presidencia.gov.br/ccivil_03/decreto-lei/del2848compilado.htm).
 
+## Executar o exemplo
+
+Com Python 3 instalado, rode `python exemplo.py`. O arquivo usa apenas dados fictícios e inclui verificações simples com `assert`. Ele não substitui a análise jurídica nem executa ações externas.
+
+
 *Exemplo didático: não identifica atacantes nem executa ações em redes reais.*
